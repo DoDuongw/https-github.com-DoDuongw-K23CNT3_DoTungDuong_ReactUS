@@ -10,14 +10,12 @@ class DtdEvenForm5 extends Component {
             dtdCourse:'CSS3'
         }
     }
-
     // Hàm xử lý sự kiện change
     dtdHandleChange = (event)=>{
         // lấy tên điều khiển
         let name = event.target.name;
         // Lấy giá trị trên điều khiển đang thao tác
         let value = event.target.value;
-
         // Cập nhật state
         this.setState({
             [name]:value,
@@ -89,7 +87,6 @@ class DtdEvenForm5 extends Component {
                 </form>
             </div>
         );
-    }
+    };
 }
-
 export default DtdEvenForm5;
