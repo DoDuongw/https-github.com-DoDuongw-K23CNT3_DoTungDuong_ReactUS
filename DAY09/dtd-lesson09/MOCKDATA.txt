@@ -1,0 +1,6 @@
+dtdStudents:[
+        {dtdId:"SV001",dtdStudentName:"Đỗ Tùng Dương",dtdAge:20, dtdClass:"K23CNT3"},
+        {dtdId:"SV002",dtdStudentName:"Đỗ Tùng Dươn2g",dtdAge:20, dtdClass:"K23CNT3"},
+        {dtdId:"SV003",dtdStudentName:"Đỗ Tùng Dư3ơ2ng",dtdAge:20, dtdClass:"K23CNT3"},
+        {dtdId:"SV005",dtdStudentName:"Đỗ Tùng Dư3ơng",dtdAge:20, dtdClass:"K23CNT3"},
+      ];

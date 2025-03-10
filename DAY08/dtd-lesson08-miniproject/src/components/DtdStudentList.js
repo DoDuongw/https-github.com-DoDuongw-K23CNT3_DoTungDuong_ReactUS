@@ -14,7 +14,7 @@ class DtdStudentList extends Component {
     // lấy dữ liệu trong props từ DtdApp chuyển xuống
     let {renderDtdStudents} = this.props;
     console.log("List:",renderDtdStudents);
-    
+
     // chuyển dữ liệu vào DtdStudent để hiển thị
     let dtdElementStudent = renderDtdStudents.map((dtdItem,index)=>{
         return <DtdStudent key={index} renderDtdStudent={dtdItem} onDtdHandleView={this.dtdHandleView} />
