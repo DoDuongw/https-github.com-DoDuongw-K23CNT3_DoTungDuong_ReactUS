@@ -10,7 +10,7 @@ const DtdProductList = ({ products }) => {
           <tr>
             <th>Mã sản phẩm</th>
             <th>Tên sản phẩm</th>
-            <th>Số lượng</th>
+            <th>Chất lượng</th>
             <th>Giá (VND)</th>
           </tr>
         </thead>
