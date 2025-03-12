@@ -1,0 +1,46 @@
+.product-list {
+    max-width: 90rem; /* Tăng chiều rộng bảng nhiều hơn */
+    margin: 3rem auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .product-list h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #007bff;
+    font-size: 1.8rem;
+  }
+  
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Giúp các cột không bị bó hẹp */
+  }
+  
+  .product-table th,
+  .product-table td {
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    width: 25%; /* Phân bổ đều các cột */
+  }
+  
+  .product-table th {
+    background: #007bff;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .product-table tr:hover {
+    background: #f8f9fa;
+  }
+  
+  .product-table td {
+    color: #333;
+    font-size: 1.1rem;
+    word-wrap: break-word; /* Giúp chữ không bị tràn ra ngoài */
+  }
+  

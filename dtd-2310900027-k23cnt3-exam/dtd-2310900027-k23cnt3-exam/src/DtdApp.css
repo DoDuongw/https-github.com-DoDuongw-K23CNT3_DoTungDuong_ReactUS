@@ -1,0 +1,19 @@
+.app-container {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    min-height: 100vh;
+  }
+  
+  .app-title {
+    font-size: 2rem;
+    color: #343a40;
+    margin-bottom: 1.5rem;
+  }
+  
+  .app-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
