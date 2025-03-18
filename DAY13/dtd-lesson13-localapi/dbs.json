@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "fullName":"Đỗ Tùng Dương",
+            "age":19,
+            "class":"K23CNT3"
+        },
+        {
+            "fullName":"Đỗ Tất Tùng",
+            "age":26,
+            "class":"1998"
+        },
+        {
+            "fullName":"Nguyễn Quang B",
+            "age":30,
+            "class":"K23CNT3"
+        }
+    ],
+    "students":[
+        {
+            "studentId":"SV0001",
+            "studentName":"AyaTsuki"
+        }
+    ]
+}
